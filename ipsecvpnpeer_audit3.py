@@ -1,4 +1,4 @@
-# Only prints out the ACTIVE peers (those with IPsec policies defined) and their associated VPN status across all networks in the org. 
+# Only prints out the ACTIVE peers name - not the network (those with IPsec policies defined) and their associated VPN status across all networks in the org. 
 # Also performs a basic compliance check on the encryption/auth settings and highlights any weak configurations.
 # Prints the result to .txt. 
 
